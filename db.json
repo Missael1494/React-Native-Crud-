@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Misa actualizado",
+      "telefono": "4495478990",
+      "empresa": "Google ",
+      "correo": "misa@gmail.com",
+      "id": 6
+    },
+    {
+      "nombre": "Roli",
+      "telefono": "3466998",
+      "empresa": "Roli pizza",
+      "correo": "roli@gmail.com",
+      "id": 7
+    },
+    {
+      "nombre": "David",
+      "telefono": "74747478",
+      "empresa": "Google",
+      "correo": "david@gmail.com",
+      "id": 8
+    }
+  ]
+}
